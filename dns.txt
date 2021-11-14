@@ -1,0 +1,8 @@
+Tipo	Nombre	Valor	TTL	Acciones
+A	@	Parked	600 segundos	Modificar
+CNAME	www	@	1 hora	Modificar
+CNAME	_domainconnect	_domainconnect.gd.domaincontrol.com	1 hora	Modificar
+NS	@	ns27.domaincontrol.com	1 hora	
+NS	@	ns28.domaincontrol.com	1 hora	
+SOA	@	Nombre del servidor principal: ns27.domaincontrol.com.	1 hora	
+
